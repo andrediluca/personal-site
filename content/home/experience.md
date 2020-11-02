@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 60  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,44 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "PhD student in Physics"
+  company = "University of Trento"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Trento, Italy"
+  date_start = "2018-11-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Advisors: Dott. Roberto Iuppa, Dott. Marco Cristoforetti
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Master degree in Physics"
+  company = "University of Pisa"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "Pisa, Italy"
+  date_start = "2015-01-01"
+  date_end = "2018-01-01"
+  description = """
+  Thesis:Real-time reconstruction of tracks in the Scintillating Fibre Tracker of the LHCb Upgrade
+  
+  Advisor:Dott.  Michael J. Morello
+
+  Final mark:110/110
+  """
+
+[[experience]]
+  title = "Bachelor degree in Physics"
+  company = "University of Pisa"
+  company_url = ""
+  location = "Pisa, Italy"
+  date_start = "2012-01-01"
+  date_end = "2015-12-31"
+  description = """
+  Thesis:”Statistical behaviour of indistinguishable particles in two-dimensional systems”
+  
+  Advisor:Prof.  Massimo D’Elia
+  
+  Final mark:108/11
+  """
 
 +++
