@@ -19,12 +19,12 @@ Features are sorted with the Random Forest algorithm, then selected as input qua
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2020-07-28T17:10:00Z"
+# date_end: "2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+#publishDate: "2017-01-01T00:00:00Z"
 
 authors: []
 tags: []
@@ -44,7 +44,7 @@ links:
 - icon: youtube
   icon_pack: fab
   name: Youtube
-  url: ichep2020_diluca.pdf
+  url: https://youtu.be/0h8e0fDuigA?t=6546
 - icon: file-pdf
   icon_pack: fa
   name: Event
