@@ -75,6 +75,6 @@ user_groups:
 - Visitors
 ---
 
-I'm a PhD student at the University of Trento. I'm active member of the ATLAS experiment collaboration.  
+I'm a PhD student at the [University of Trento](https://www.unitn.it/en) and [Fondazione Bruno Kesler](https://www.fbk.eu/en/). I'm active member of the [ATLAS experiment](https://atlas.cern/) collaboration.  
 
 I am interested in using machine learning tools to study fundamental particle physics. Much of my research focuses on jet physics.
