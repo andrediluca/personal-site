@@ -24,8 +24,8 @@ education:
   courses:
   - course: PhD student in Physics
     institution: University of Trento
-
     year: 2018 - Pres.
+    supervisor: Tizio
   - course: MSc in Physics
     institution: University of Pisa
     year: 2018

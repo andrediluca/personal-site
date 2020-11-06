@@ -3,13 +3,7 @@ title: Automated selection of particle-jet features for data analysis inHigh Ene
 event: 40th International Conference on High Energy Physics
 event_url: https://indico.cern.ch/event/868940/overview
 
-location: Source Themes HQ
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+location: Prague (Online)
 
 summary: ICHEP 2020
 abstract: "In high-energy physics experiments, the sensitivity of selection-based analyses critically depends on which observable quantities are taken into consideration and which ones are discarded as considered least important. In this process, scientists are usually guided by their cultural background and by literature.
@@ -69,15 +63,3 @@ projects:
 # Enable math on this page?
 math: true
 ---
-
-{{% alert note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /alert %}}
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
