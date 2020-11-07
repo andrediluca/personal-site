@@ -1,21 +1,21 @@
 # Theme metadata
-name = "my_theme"
+
+# Based off of the Hugo Academic "minimal" theme
+name = "My Theme: Silvia"
 
 # Is theme light or dark?
 light = true
 
 # Primary
-primary = "#fca311"
+primary = "#ff6700" # changes colors of links
 
 # Menu
-menu_primary = "#14213d"
-menu_text = "#ebebeb"
-menu_text_active = "#fca311"
-menu_title = "#ffffff"
+menu_primary = "#004e98"
+menu_text = "#dee2e6" #main text in menu
+menu_text_active = "#fb8500" # social media icons
+menu_title = "#fff" # text in the menu bar
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
-
-#link = "#fca311"
-#link_hover = "#14213d"
+background = "rgb(255, 255, 255)" # page background
+home_section_odd = "rgb(255, 255, 255)" # white
+home_section_even = "#fafafb" # light gray
