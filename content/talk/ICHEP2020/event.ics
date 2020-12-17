@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CERN//INDICO//EN
+BEGIN:VEVENT
+SUMMARY:Atlas Machine Learning Forum
+DTSTART;VALUE=DATE-TIME:20201210T145500Z
+DTEND;VALUE=DATE-TIME:20201210T172000Z
+DTSTAMP;VALUE=DATE-TIME:20201209T151339Z
+UID:indico-event-977427@indico.cern.ch
+DESCRIPTION:Other useful Atlas Machine Learning Links:\n\n\n	Group twiki\n
+ 	Full List of Meetings\n\n\nhttps://indico.cern.ch/event/977427/
+LOCATION:your house on the computer
+URL:https://indico.cern.ch/event/977427/
+END:VEVENT
+END:VCALENDAR
